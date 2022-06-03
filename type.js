@@ -51,5 +51,3 @@ console.log(q); // undefined 출력 undefined는 변수에 값이 할당되지 �
 
 typeof X; // 두가지 문법 지원
 typeof(y); // 인수의 자료형을 나타내는 문자열을 반환.
-
-

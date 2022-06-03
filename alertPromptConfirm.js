@@ -6,4 +6,4 @@ alert('ok'); // alert 함수는 확인 버튼을 누를 때까지 메시지를 �
 
 let isBoss = confirm("당신이 주인인가?");
 
-alert(isBoss); // 확인 취소 택일
+alert(isBoss); // 확인 취소 택일1
